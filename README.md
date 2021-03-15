@@ -1,7 +1,7 @@
 # 10JavaScriptProject
 자바스크립트 프로젝트 10개
 
-# 1. Countdown Timer
+## 1. Countdown Timer
 ## 과제
 * 현재 시간으로부터 내년 새해까지의 D-Day 구하기
 
@@ -12,7 +12,7 @@
 * 기본 화면
 >![image](https://user-images.githubusercontent.com/59829606/111128799-abef5e80-85b8-11eb-8187-d7e91d41dcdd.png)
 
-# 2. Questionnaire
+## 2. Questionnaire
 ## 과제
 * JSON 파일을 생성하고 JavaScript를 이용하여 동적으로 데이터 받아오기
 * 라디오 버튼을 이용하여 정답을 제출하고 퀴즈가 끝나면 맞은 개수 출력
