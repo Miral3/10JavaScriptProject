@@ -38,7 +38,7 @@ function transformNumber(Number) {
 /* 메인함수 */
 function init() {
   getDate();
-  setInterval(calcDate, 1000);
+  setInterval(getDate, 1000);
 }
 
 init();
